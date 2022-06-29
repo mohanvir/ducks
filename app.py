@@ -3,3 +3,6 @@ def hello_ducks():
 
 def hello_humans():
     return "hello humans"
+
+def hello_class():
+    return "hello class"
