@@ -16,4 +16,3 @@ def hello_class():
 if __name__ == "__main__":
     print(hello_ducks())
     print(hello_humans())
-    print(hello_class())
